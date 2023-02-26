@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b746272.css",
-    "main.js": "/static/js/main.40d6e08d.js",
-    "static/js/787.1d5915ea.chunk.js": "/static/js/787.1d5915ea.chunk.js",
-    "static/media/background.jpg": "/static/media/background.ad65b3f4905ecb59cf07.jpg",
-    "index.html": "/index.html",
-    "main.3b746272.css.map": "/static/css/main.3b746272.css.map",
-    "main.40d6e08d.js.map": "/static/js/main.40d6e08d.js.map",
-    "787.1d5915ea.chunk.js.map": "/static/js/787.1d5915ea.chunk.js.map"
+    "main.css": "/VinceK15.github.io/kanbanboard/static/css/main.2bf543ab.css",
+    "main.js": "/VinceK15.github.io/kanbanboard/static/js/main.8283f955.js",
+    "static/js/787.1d5915ea.chunk.js": "/VinceK15.github.io/kanbanboard/static/js/787.1d5915ea.chunk.js",
+    "static/media/background.jpg": "/VinceK15.github.io/kanbanboard/static/media/background.ad65b3f4905ecb59cf07.jpg",
+    "index.html": "/VinceK15.github.io/kanbanboard/index.html",
+    "main.2bf543ab.css.map": "/VinceK15.github.io/kanbanboard/static/css/main.2bf543ab.css.map",
+    "main.8283f955.js.map": "/VinceK15.github.io/kanbanboard/static/js/main.8283f955.js.map",
+    "787.1d5915ea.chunk.js.map": "/VinceK15.github.io/kanbanboard/static/js/787.1d5915ea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b746272.css",
-    "static/js/main.40d6e08d.js"
+    "static/css/main.2bf543ab.css",
+    "static/js/main.8283f955.js"
   ]
 }
