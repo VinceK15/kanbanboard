@@ -1,5 +1,5 @@
 import './kanbanboard.css';
-import SortableList from "../component/SortableList";
+import SortableList from "./component/SortableList";
 
 function App() {
   return (
