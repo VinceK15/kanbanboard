@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "@types/sortablejs": "^1.15.0"
+    "@types/sortablejs": "^1.15.0",
+    "gh-pages": "^5.0.0"
   }
 }
