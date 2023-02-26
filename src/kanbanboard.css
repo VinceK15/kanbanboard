@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  background-image: url("./img/background.jpg");
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.h3style1{
+  background-color: lightgrey;
+  width: 25%;
+  text-align: center;
+  margin-left: 37%;
+  color: darkslateblue;
+}
+
+.h3style1:hover {
+  color:blueviolet;
+  cursor: grab;
+}
+
+.kanban_header {
+  position: relative;
+  display: block;
+  font-family: Goudy Old Style;
+  text-align: center;
+  font-size: 16px;
+  font-weight: bold;
+  color:lightskyblue;
+}
+
+.kanban_footer{
+  margin-top: 25%;
+  text-align: center;
+}
+
+@media only screen and (max-width: 600px)
+{
+ .h3style1 {
+  width: 50%;
+ } 
+}
